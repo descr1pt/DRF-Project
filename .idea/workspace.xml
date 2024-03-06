@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a120e7f4-a620-4a9a-a2cf-bfb15ae5e5d9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drfsite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/drfsite/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/drfsite/drfsite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/drfsite/drfsite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drfsite/women/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/drfsite/women/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/drfsite/women/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/drfsite/women/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
